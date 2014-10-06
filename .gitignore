@@ -7,3 +7,13 @@
 /Insertion.class
 /Shell.class
 /SortTest.class
+/StdRandom.class
+/SortHelpers.class
+/SortHelpersImpl.class
+/Deque.class
+/Deque$Node.class
+/Deque$DequeIterator.class
+/RandomizedQueue.class
+/RandomizedQueue$DequeIterator.class
+/RandomizedQueue$RandomizedQueueIterator.class
+/Subset.class

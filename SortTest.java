@@ -14,5 +14,6 @@ public class SortTest {
 		Comparable [] inputArray3 =  {1,5,7,9,3,4,57,8,9};
 		Shell.sort(inputArray3);
 		Assert.assertArrayEquals(inputArray1, inputArray3);
+		StdRandom.shuffle(inputArray3);
 	}
 }
